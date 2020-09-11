@@ -10,13 +10,13 @@ const Header = ({ subpage = false }) => {
       href: '/',
       child: 'Home',
     },
+    // {
+    //   href: '',
+    //   child: 'whitepaper',
+    //   target: '_blank',
+    // },
     {
-      href: '',
-      child: 'whitepaper',
-      target: '_blank',
-    },
-    {
-      href: '',
+      href: 'https://github.com/nirvanastech',
       child: 'Github',
       target: '_blank',
     },

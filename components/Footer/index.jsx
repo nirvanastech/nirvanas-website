@@ -11,14 +11,14 @@ const Footer = () => {
           <ul className="icons">
             <li>
               <a
-                href=""
+                href="https://github.com/nirvanastech"
                 target="_blank"
                 className="icon fa-github"
               >
                 <span className="label">Github</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href=""
                 target="_blank"
@@ -26,7 +26,7 @@ const Footer = () => {
               >
                 <span className="label">Twitter</span>
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
